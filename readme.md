@@ -32,6 +32,8 @@ SUPPORT
 
 I'm making every effort to build a program that will work without issue. However, there are many moving parts and some services that I do NOT control. If you run into any issues you can catch one of my streams and let me know and I'll make my best effort to address them.
 
+You can also report issues using Github in the project's section: https://github.com/MorenoDev/WakisMakis/issues.
+
 DONATIONS
 
 If like this program and would like to support me you, in addition to following or subscribing, you can cheer with Bits in my channel.
