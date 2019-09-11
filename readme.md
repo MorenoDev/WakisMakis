@@ -13,6 +13,10 @@ INSTALATION
 9. Go to File -> Connect to connect to Chat.
 10. Add host raffle to the list per each channel's instructions.
 
+UPGRADE
+
+When a new version of the App is available, you may use your same settings by simply replacing the App's executable file and any newer DLL included in the Zip file from Github.
+
 IMPORTANT
 
 Read each host raffle channel's instructions to obtain the host command (i.e.: !hostme) and the intervals. Host channel also depend on viewers to be effective, so don't forget to watch or lurk them. 
@@ -25,7 +29,7 @@ LICENSING
 
 This software is provided for FREE to followers of my channel (https://www.twitch.tv/elmoren0) but I offer no guaranty.
 
-- Followers are allowed to add up to 3 Host Raffle Channels.
+- Followers are allowed to add up to 5 Host Raffle Channels.
 - Subscribers can add unlimited amount of Host Raffle Channels (This may change).
 
 SUPPORT
